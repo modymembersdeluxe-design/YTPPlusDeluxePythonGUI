@@ -1,0 +1,3 @@
+# Tkinter ships with most CPython distributions.
+# Optional helper dependency:
+requests>=2.31.0
